@@ -10,7 +10,8 @@ ul {list-style-type:none;margin:0;padding:0;}
 .header-cta, .arrow {display: none;}
 .wrapper { margin: 2.6em; }
 
-body {
+body 
+{
     font-family: 'Nunito', sans-serif;
     margin: 0;
 }
